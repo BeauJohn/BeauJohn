@@ -4,7 +4,7 @@
 
 -  🏢 I'm currently working on **personal projects**
 -  🌱 Learning all about **Open Source**
--  👯 Always looking to **collaborate with anyone on any project.**
+-  👯 Always looking to **collaborate with anyone on any project**
 -  ⚡️ Fun fact: I have never seen **E.T.**
 <br>
 
