@@ -1,4 +1,4 @@
-### Hi there, I'm Jonathan ![gif of fire parrot](https://emojis.slackmojis.com/emojis/images/1597609852/10064/everythings_fine_parrot.gif?1597609852)
+### Hi there, I'm Jonathan <code><img height="20" src="https://emojis.slackmojis.com/emojis/images/1597609852/10064/everythings_fine_parrot.gif?1597609852"></code>
 
 ##### NOW
 
