@@ -5,7 +5,15 @@
 ##### BIO
 
 -  🏢 I'm currently working on **personal projects**
--  💅 Designed: @pestphp, [NorthMeetsSouth.audio](https://www.northmeetssouth.audio), [ThenPing.me](https://thenping.me), [HappydDev.fm](https://www.happydev.fm), etc…
 -  🌱 Learning all about **Open Source**
--  💬 Ping me about **design**, **branding**, **laravel**, **development**, **design thinking**
--  ⚡️ Fun fact: I'm a huge fan of Harry Potter
+-  ⚡️ Fun fact: I have never seen E.T.
+
+
+
+
+
+
+#### 📈 Some github stats
+
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=BeauJohn&show_icons=true?theme=radical" alt="githubStats" />
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeauJohn&layout=compact" alt="most used languages" />
