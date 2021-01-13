@@ -1,17 +1,12 @@
 <h1>Hi there, I'm Jonathan <img height="30" src="https://emojis.slackmojis.com/emojis/images/1597609852/10064/everythings_fine_parrot.gif?1597609852"></h1>
 
-##### NOW
-
 ##### BIO
 
 -  🏢 I'm currently working on **personal projects**
 -  🌱 Learning all about **Open Source**
--  ⚡️ Fun fact: I have never seen E.T.
-
-
-
-
-
+-  👯 Always looking to **collaborate with anyone on any project.**
+-  ⚡️ Fun fact: I have never seen **E.T.**
+<br>
 
 #### 📈 Some github stats
 
