@@ -8,9 +8,10 @@
 -  ⚡️ Fun fact: I have never seen **E.T.**
 <br>
 
-#### 🔨 Also active on
+#### Also active on
 
-<a href="https://www.codewars.com/users/JohnTheCoderian" > <img src="https://cdn0.iconfinder.com/data/icons/a-s-social-set/256/codewars-512.png" alt="codewars logo" height="40" /></a>
+<a href="https://www.codewars.com/users/JohnTheCoderian" > <img src="https://cdn0.iconfinder.com/data/icons/a-s-social-set/256/codewars-512.png" alt="codewars logo" height="45" /></a>
+<br>
 <br>
 
 #### 📈 Some github stats
