@@ -6,6 +6,6 @@
 -  ⚡️ Fun fact: I have never seen **E.T.**
 <br>
 #### 📈 Some github stats
-
+<br>
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=BeauJohn&show_icons=true?theme=radical" alt="githubStats" />
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeauJohn&layout=compact" alt="most used languages" />
